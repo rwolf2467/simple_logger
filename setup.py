@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='reds_simple_logger',
-    version='2.1.2.1',
+    version='2.2',
     packages=["reds_simple_logger"],
     install_requires=["termcolor", "datetime"],
     author="Red_Wolf2467",
